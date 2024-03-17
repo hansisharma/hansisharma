@@ -7,7 +7,7 @@
 
 ### Hi there, I'm [Hansi Sharma]([https://www.linkedin.com/in/hansi-06b22b191/](https://www.linkedin.com/in/hansi-sharma-0b4a87230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
-I am an intermediate back-end developer, graphic and Adobe designer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
+I am an intermediate Front-end developer.I am always enthusiastic about new creative projects for which I use my creative side and skill to provide an elegant solution for any project. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
 
 
 
@@ -19,11 +19,6 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 - ⚡ Fun fact: I love designing and travelling to explore new places.
 - ❤️ Building a community to make an impact by training new generations on cutting edge \
 technologies to meet future requirements.</br>
-
-
-
-
-
 
 <details>
  
